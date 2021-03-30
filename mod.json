@@ -1,0 +1,13 @@
+{
+	"Name": "Kiasar BR Custom Map",
+	"Authors": ["keku645"],
+	"Description": "Custom map for Kiasar Battle Royale",
+	"URL": "",
+	"Version": "0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"maploader-br-xp5-003": "^1.0.0",
+        "veniceext": "^1.0.0"
+    }
+}
